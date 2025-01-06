@@ -2,23 +2,6 @@
 
 This project demonstrates proficiency in React development using Webpack, Material-UI, and mock API integration. The application provides a well-structured architecture, responsive design, and clean, maintainable code.
 
-## Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running the App](#running-the-app)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Error Handling](#error-handling)
-- [Responsive Design](#responsive-design)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## Features
 
 - **UI Layout**:
@@ -71,8 +54,8 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/andreas12062410/Webpack-React-App.git
+   cd Webpack-React-App
    ```
 
 2. Install dependencies:
@@ -114,7 +97,7 @@ src/
 ├── webpack.config.js # Webpack configuration
 ├── tailwind.config.js # Tailwind CSS configuration file
 ├── postcss.config.js  # PostCSS configuration file
-└── .babelrc           # Babel configuration file
+└── .babelrc           # Babel configuration filex
 ```
 
 ---
